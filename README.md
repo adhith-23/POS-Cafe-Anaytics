@@ -1,11 +1,9 @@
-# POS-Cafe-Anaytics
-POS Cafe is a Shopify POS app for cafes and QSRs. We’re evolving our modifier-based ordering into a full BI suite. This project implements ingredient-level inventory tracking and operational analytics to help merchants make data-driven decisions.
 # ☕ POS Cafe Analytics  
 **Capstone Project – University of Southern Queensland (Feb – May 2025)**  
 
 ---
 
-## 📌 Project Overview  
+## Project Overview  
 
 POS Cafe Analytics is an end-to-end data analytics project designed to simulate a Shopify-based café environment and transform transactional data into actionable business insights.  
 
@@ -19,7 +17,7 @@ This project demonstrates the integration of data engineering, exploratory analy
 
 ---
 
-## 🎯 Problem Statement  
+## Problem Statement  
 
 Cafés operating on Shopify POS systems generate large volumes of transactional data but often lack analytical infrastructure to:
 
@@ -32,7 +30,7 @@ This project addresses these challenges through structured analytics and predict
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 - Python (pandas, NumPy, scikit-learn)  
 - Power BI  
@@ -42,7 +40,7 @@ This project addresses these challenges through structured analytics and predict
 
 ---
 
-## 🔎 Data Processing & Preparation  
+## Data Processing & Preparation  
 
 - Cleaned and transformed café transaction datasets using pandas  
 - Handled missing values and inconsistent formatting  
@@ -68,7 +66,7 @@ The model captured seasonal patterns and provided interpretable outputs for busi
 
 ---
 
-## 📊 Dashboard Design (Power BI)
+## Dashboard Design (Power BI)
 
 The dashboard was designed with both desktop and mobile responsiveness in mind.
 
@@ -82,7 +80,7 @@ The dashboard was designed with both desktop and mobile responsiveness in mind.
 
 ---
 
-## 🚀 Future Improvements  
+## Future Improvements  
 
 - Live Shopify API integration  
 - Real-time deployment using Streamlit  
@@ -91,7 +89,7 @@ The dashboard was designed with both desktop and mobile responsiveness in mind.
 
 ---
 
-## 🧠 Key Skills Demonstrated  
+## Key Skills Demonstrated  
 
 - End-to-end data analytics workflow  
 - Business problem translation  
@@ -102,7 +100,7 @@ The dashboard was designed with both desktop and mobile responsiveness in mind.
 
 ---
 
-## 💡 Business Impact  
+## Business Impact  
 
 This project demonstrates how small retail businesses can leverage data analytics to:
 
