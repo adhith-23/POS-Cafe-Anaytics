@@ -83,7 +83,7 @@ The dashboard was designed with both desktop and mobile responsiveness in mind.
 ## Dashboard Overview  
 
 <p align="center">
-  <img src="assets/dashboard_main.jpeg" width="1000">
+  <img src="dashboard_main.jpeg" width="1000">
 </p>
 
 *Power BI dashboard analysing sales trends, weather impact, product performance and modifier behaviour across seasonal periods.*
